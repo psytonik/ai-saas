@@ -17,6 +17,8 @@
 
 # misc
 .DS_Store
+.idea
+/.idea
 *.pem
 
 # debug
@@ -25,6 +27,8 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
+.env
+.env.local
 .env*.local
 
 # vercel
